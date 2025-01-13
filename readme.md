@@ -2,7 +2,7 @@
 
 ## Table of Contents
 <details>
-<summary>Click to expand</summary>
+<summary>📑 View full table of contents</summary>
 
 - [Getting Started](#getting-started)
 - [Core AWS Services](#core-aws-services)
@@ -14,7 +14,7 @@
 
 ## Getting Started
 <details>
-<summary>Click to expand</summary>
+<summary>🚀 Prerequisites and initial setup steps</summary>
 
 ### Prerequisites
 - AWS Account
@@ -31,7 +31,7 @@
 ## Core AWS Services
 
 <details>
-<summary>Compute Services</summary>
+<summary>💻 Compute (EC2, Lambda, ECS, EKS)</summary>
 
 ### Compute
 - **EC2 (Elastic Compute Cloud)** ![EC2](Asset-Package_06072024.b5d9f0b1179c4a995a3f1e42042defabb0ba0fd2/Compute/Amazon-EC2.png)
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>Storage Services</summary>
+<summary>💾 Storage (S3, EBS, EFS)</summary>
 
 ### Storage
 - **S3 (Simple Storage Service)**
@@ -103,7 +103,7 @@
 </details>
 
 <details>
-<summary>Database Services</summary>
+<summary>🗄️ Database (RDS, DynamoDB, ElastiCache)</summary>
 
 ### Database
 - **RDS (Relational Database Service)**
@@ -142,7 +142,7 @@
 </details>
 
 <details>
-<summary>Networking Services</summary>
+<summary>🌐 Networking (VPC, Route 53, CloudFront)</summary>
 
 ### Networking
 - **VPC (Virtual Private Cloud)**
@@ -180,7 +180,7 @@
 </details>
 
 <details>
-<summary>Application Integration Services</summary>
+<summary>🔄 Application Integration (SQS, SNS, EventBridge)</summary>
 
 ### Application Integration
 - **SQS (Simple Queue Service)**
@@ -206,7 +206,7 @@
 </details>
 
 <details>
-<summary>Developer Tools</summary>
+<summary>🛠️ Developer Tools (CodeCommit, CodeBuild, CodeDeploy, CodePipeline)</summary>
 
 ### Developer Tools
 - **CodeCommit**
@@ -245,7 +245,7 @@
 </details>
 
 <details>
-<summary>Monitoring and Logging Services</summary>
+<summary>📊 Monitoring and Logging (CloudWatch, X-Ray)</summary>
 
 ### Monitoring and Logging
 - **CloudWatch**
@@ -272,7 +272,7 @@
 </details>
 
 <details>
-<summary>Security and Identity Services</summary>
+<summary>🔐 Security and Identity (IAM, Cognito, Secrets Manager)</summary>
 
 ### Security and Identity
 - **IAM (Identity and Access Management)**
@@ -309,7 +309,7 @@
 </details>
 
 <details>
-<summary>AI/ML Services</summary>
+<summary>🤖 AI/ML Services (SageMaker, Rekognition, Comprehend)</summary>
 
 ### AI/ML Services
 - **SageMaker**
@@ -340,7 +340,7 @@
 </details>
 
 <details>
-<summary>Analytics Services</summary>
+<summary>📈 Analytics (Kinesis, EMR)</summary>
 
 ### Analytics
 - **Kinesis**
@@ -368,6 +368,8 @@
 </details>
 
 ## Architecture and Diagrams
+<details>
+<summary>📐 Reference architectures and design patterns</summary>
 
 ### Common AWS Architecture Patterns
 - **Three-Tier Web Application**
@@ -445,39 +447,62 @@
 - Highlight security boundaries
 - Include legend for complex diagrams
 - Version control your diagrams
+</details>
 
 ## Best Practices
+<details>
+<summary>✨ AWS recommended practices and guidelines</summary>
+
 - Use Infrastructure as Code (IaC)
 - Implement proper tagging strategy
 - Follow the principle of least privilege
 - Enable logging and monitoring
 - Regular backups and disaster recovery planning
+</details>
 
 ## Security
+<details>
+<summary>🛡️ Security best practices and configurations</summary>
+
 - IAM best practices
 - Security groups and NACLs
 - Encryption at rest and in transit
 - AWS WAF and Shield
 - Security Hub and GuardDuty
+</details>
 
 ## Tools and SDKs
+<details>
+<summary>🔧 Development tools and software development kits</summary>
+
 - AWS CLI
 - AWS SDKs (Python, JavaScript, Java, etc.)
 - AWS CloudFormation
 - AWS CDK
 - AWS SAM
+</details>
 
 ## Additional Resources
+<details>
+<summary>📚 Documentation, training, and learning resources</summary>
+
 - [AWS Amazing Architectures (Highly Recommended)](https://aws.amazon.com/architecture)
 - [AWS Documentation](https://docs.aws.amazon.com/)
 - [AWS Training and Certification](https://aws.amazon.com/training/)
 - [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Solutions Architecture](https://aws.amazon.com/solutions/)
 - [AWS Architecture Icons](https://aws.amazon.com/architecture/icons/)
+</details>
 
 ## Contributing
-Feel free to contribute to this guide by submitting pull requests or creating issues.
+<details>
+<summary>👥 How to contribute to this guide</summary>
+
+Feel free to contribute to this guide by submitting pull requests or creating issues.</details>
 
 ## License
-This documentation is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<details>
+<summary>📄 License information</summary>
+
+This documentation is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</details>
 
