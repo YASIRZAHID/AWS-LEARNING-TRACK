@@ -1,14 +1,21 @@
 # AWS Developer's Guide
 
 ## Table of Contents
+<details>
+<summary>Click to expand</summary>
+
 - [Getting Started](#getting-started)
 - [Core AWS Services](#core-aws-services)
 - [Architecture and Diagrams](#architecture-and-diagrams)
 - [Best Practices](#best-practices)
 - [Security](#security)
 - [Tools and SDKs](#tools-and-sdks)
+</details>
 
 ## Getting Started
+<details>
+<summary>Click to expand</summary>
+
 ### Prerequisites
 - AWS Account
 - AWS CLI installed
@@ -19,8 +26,12 @@
 2. Set up IAM users and groups
 3. Configure MFA
 4. Set up billing alerts
+</details>
 
 ## Core AWS Services
+
+<details>
+<summary>Compute Services</summary>
 
 ### Compute
 - **EC2 (Elastic Compute Cloud)** ![EC2](Asset-Package_06072024.b5d9f0b1179c4a995a3f1e42042defabb0ba0fd2/Compute/Amazon-EC2.png)
@@ -58,6 +69,10 @@
   - Fargate profiles
   - Add-ons and plugins
   - Cluster autoscaling
+</details>
+
+<details>
+<summary>Storage Services</summary>
 
 ### Storage
 - **S3 (Simple Storage Service)**
@@ -85,6 +100,10 @@
   - Lifecycle management
   - Access points
   - Backup solutions
+</details>
+
+<details>
+<summary>Database Services</summary>
 
 ### Database
 - **RDS (Relational Database Service)**
@@ -120,6 +139,10 @@
   - Backup and restore
   - Auto failover
   - Scaling options
+</details>
+
+<details>
+<summary>Networking Services</summary>
 
 ### Networking
 - **VPC (Virtual Private Cloud)**
@@ -154,6 +177,10 @@
   - SSL/TLS certificates
   - Lambda@Edge
   - Field-level encryption
+</details>
+
+<details>
+<summary>Application Integration Services</summary>
 
 ### Application Integration
 - **SQS (Simple Queue Service)**
@@ -176,6 +203,10 @@
   - Scheduled events
   - Partner event sources
   - Schema registry
+</details>
+
+<details>
+<summary>Developer Tools</summary>
 
 ### Developer Tools
 - **CodeCommit**
@@ -211,6 +242,10 @@
   - Manual approval actions
   - Cross-region actions
   - Webhook integrations
+</details>
+
+<details>
+<summary>Monitoring and Logging Services</summary>
 
 ### Monitoring and Logging
 - **CloudWatch**
@@ -234,6 +269,10 @@
   - Annotations and metadata
   - Integration with AWS services
   - Custom subsegments
+</details>
+
+<details>
+<summary>Security and Identity Services</summary>
 
 ### Security and Identity
 - **IAM (Identity and Access Management)**
@@ -267,6 +306,10 @@
   - Automatic rotation
   - Database credentials management
   - Integration with AWS services
+</details>
+
+<details>
+<summary>AI/ML Services</summary>
 
 ### AI/ML Services
 - **SageMaker**
@@ -294,6 +337,10 @@
   - Sentiment analysis
   - Custom classification
   - PII detection
+</details>
+
+<details>
+<summary>Analytics Services</summary>
 
 ### Analytics
 - **Kinesis**
@@ -318,6 +365,7 @@
   - Instance fleets
   - Studio notebooks
   - Integration with Lake Formation
+</details>
 
 ## Architecture and Diagrams
 
